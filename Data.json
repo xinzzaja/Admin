@@ -1,7 +1,12 @@
 {
-  "datauser": [
-    "haya, 1",
+  "user": [
+    "haya",
     "",
     
+  ]
+  
+  "password": [
+    "1",
+
   ]
 }
