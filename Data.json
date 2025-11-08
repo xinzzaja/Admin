@@ -5,5 +5,12 @@
     "role": "user",
     "expiresAt": null,
     "createdAt": 1762577478892
+  },
+  {
+    "username": "uji",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1762714734416,
+    "createdAt": 1762628334416
   }
 ]
