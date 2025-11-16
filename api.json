@@ -5,5 +5,12 @@
     "role": "reseller",
     "expiresAt": 1771218633241,
     "createdAt": 1763269833245
+  },
+  {
+    "username": "tata1",
+    "password": "tata123",
+    "role": "reseller",
+    "expiresAt": 1765863335171,
+    "createdAt": 1763271335171
   }
 ]
