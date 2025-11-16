@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "val",
+    "password": "val123",
+    "role": "reseller",
+    "expiresAt": 1771218633241,
+    "createdAt": 1763269833245
+  }
+]
