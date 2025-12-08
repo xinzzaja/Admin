@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "aya",
+    "password": "1",
+    "role": "user",
+    "expiresAt": 1765290758760,
+    "createdAt": 1765204358760
+  }
+]
